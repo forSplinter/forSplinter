@@ -1,5 +1,5 @@
 ## Hello there 👋
-Freshly born in the corporate world (I'am Just Intern), already discovering that broken pipelines and missing unit tests seem to be core company values. If you need me, reach out at rassou.muganga@gmail.com — I might just pause the gradient descent of my existence to reply.
+Freshly born in the corporate world (I'am Just Intern), already discovering that broken pipelines and missing unit tests seem to be core company values. If you need me, reach out at rassou.muganga@gmail.com i might just pause the gradient descent of my existence to reply.
 <!--
 **forSplinter/forSplinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
