@@ -9,6 +9,7 @@ Freshly born in the corporate world (just an intern), already discovering that b
 * The exorcism of the vibe coder
 * The confidence of my model trying to converge
 * To be a wingman
+* Trying to find the GNU woman pages
 * How to stop absorbing knowledge and forgetting it in less than 2 minutes
 
 Knowledge is vanity, learning from others is superiority
