@@ -8,7 +8,6 @@ Born in the corporate world, already discovering that broken pipelines and missi
 * Why Python quietly lets you do it anyway
 * The exorcism of the vibe coder
 * To be a wingman
-* Trying to find the GNU woman pages
 * How to stop absorbing knowledge and forgetting it in less than 2 minutes
 
 Knowledge is vanity, learning from others is superiority
